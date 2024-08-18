@@ -73,13 +73,13 @@ const Footer = () => {
           {/* company Details */}
           <div className=" py-8 px-4 ">
             <h1 className="sm:text-3xl text-xl font-bold sm:text-left text-justify mb-3 flex items-center gap-3">
-              Othooy
+              E-Shop
             </h1>
             <p className="text-sm">
-              Established in 2022-Othooy has the story of success and expansion.
-              Readily recognized as the leading travel house in Bangladesh the
-              company is owned and managed by a highly professional team. It has
-              the GSA of Himalaya Airlines (H9) and PSA of VietjetAir (VJ){" "}
+              Established in 2022- E-Shop has the story of success and
+              expansion. Readily recognized as the leading travel house in
+              Bangladesh the company is owned and managed by a highly
+              professional team.{" "}
             </p>
             <br />
             {/* Social Handle */}

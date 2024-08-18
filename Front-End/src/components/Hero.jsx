@@ -31,7 +31,7 @@ const Hero = () => {
               style={{ lineHeight: 1.2 }}
             >
               Building Brands in the{" "}
-              <span className="text-red-600">Othooy</span>
+              <span className="text-red-600">E-Shop</span>
             </h1>
             <p data-aos="fade-up" data-aos-delay="300">
               Your partner in navigating the ever-evolving landscape of digital

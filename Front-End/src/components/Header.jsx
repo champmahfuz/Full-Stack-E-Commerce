@@ -12,6 +12,7 @@ import Context from "../context";
 import { HiMenuAlt3, HiMenuAlt1 } from "react-icons/hi";
 import ResponsiveMenu from "./ResponsiveMenu";
 import DarkMode from "./DarkMode";
+import logo1 from "../assets/banner/logo1.png";
 
 // menu start
 export const MenuLinks = [
@@ -87,8 +88,9 @@ const Header = () => {
           <Link to={"/"}>
             <img
               height={60}
-              width={100}
-              src="https://othooy.com/static/media/logov2.265151b089a79a458155.png"
+              width={60}
+              // src="https://othooy.com/static/media/logov2.265151b089a79a458155.png"
+              src={logo1}
               alt=""
             />
           </Link>
