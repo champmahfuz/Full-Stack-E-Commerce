@@ -1,5 +1,7 @@
 // const backendDomain = "http://localhost:8080";
-const backendDomain = import.meta.env.VITE_APP_BACKEND_URL;
+
+// const backendDomain = import.meta.env.VITE_APP_BACKEND_URL;
+const backendDomain = "https://full-stack-e-commerce-drab.vercel.app";
 // const backendDomain = "https://othooy-commerce-backend.onrender.com";
 
 const SummaryApi = {
